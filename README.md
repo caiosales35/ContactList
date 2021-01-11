@@ -11,10 +11,8 @@ Projeto de agenda de contatos; criado com o objetivo de iniciar no Ruby on Rails
 ## Funcionalidades
 
 - Cadastro de usuários
-- Recuperação de senha via email
 - Login de Usuário
 - Gerenciamento de contatos pessoais
-- Customização do perfil
 
 ## Licença
 
